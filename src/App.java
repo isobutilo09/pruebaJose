@@ -3,6 +3,8 @@ public class App {
         System.out.println("Jose");
 
         System.out.println("Escrito por alvaro");
+        System.out.println("ejercicio 7");
+        
         
     }
 }
